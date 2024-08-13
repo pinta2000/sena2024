@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Súper Mela</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la Página Súper Mela</h1>
+        <p>Un espacio lleno de estilo y modernidad</p>
+    </header>
+
+    <section class="intro">
+        <h2>Acerca de Nosotros</h2>
+        <p>Somos una comunidad apasionada por el diseño web y la creatividad. Nuestra misión es crear experiencias digitales que impresionen y deleiten a nuestros usuarios.</p>
+        <a href="#" class="btn">Únete a Nosotros</a>
+    </section>
+
+    <section class="features">
+        <div class="feature-box">
+            <h3>Diseño Moderno</h3>
+            <p>Nuestros diseños son frescos, innovadores y están a la vanguardia de las tendencias actuales.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Responsivo</h3>
+            <p>Tu página web se verá genial en cualquier dispositivo, desde móviles hasta pantallas gigantes.</p>
+        </div>
+        <div class="feature-box">
+            <h3>Interactividad</h3>
+            <p>Añadimos interactividad que mejora la experiencia del usuario, haciendo la navegación divertida y eficiente.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Súper Mela. Todos los derechos reservados.</p>
+        <p>Siguenos en nuestras redes sociales:</p>
+        <div class="social-links">
+            <a href="#">Facebook</a> |
+            <a href="#">Instagram</a> |
+            <a href="#">Twitter</a>
+        </div>
+    </footer>
+</body>
+</html>
